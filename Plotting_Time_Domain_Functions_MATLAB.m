@@ -1,3 +1,11 @@
+% header block 
+% * code file name: Plotting_Time_Domain_Functions_MATLAB
+% * code description: Program to plot time domain functions in different figures, namely the Dirac, Heaviside, Ramp, Exponential and Sinusoidal functions 
+% * programmer(s) name: Frederick De Leon
+% * date when code is created/modified: 02/29/2024
+% * code version: v1.0 
+
+
 clear all
 close all
 clc
